@@ -29,5 +29,5 @@ IBMProvider.save_account('YOUR TOKEN', overwrite=True)
 TODO: Add citation
 
 ## License
-This project is licensed under the BSD 3-Clause License - see the [LICENSE](https://raw.githubusercontent.com/Kimleang-QML/qlstm-stock-price-prediction/main/LICENSE?token=GHSAT0AAAAAACO3IXUFPINCJLYGRGICH4C4ZRHEOSQ) file for details. \
+This project is licensed under the BSD 3-Clause License - see the [LICENSE](https://raw.githubusercontent.com/QCL-PKNU/SPP-QLSTM/main/LICENSE) file for details. \
 All rights reserved at [PKNU QCL](http://quantum.pknu.ac.kr).
