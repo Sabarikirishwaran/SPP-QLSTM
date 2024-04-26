@@ -1,0 +1,11 @@
+pandas
+pyarrow
+numpy
+pennylane
+matplotlib
+yfinance
+pandas_datareader
+torch
+torchsummary
+scikit-learn
+ipykernel
